@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Miscellaneous
+.DS_Store
+*.log
+*.swp
+*.swo
+*.bak
+
+# Cache and temporary files
+*.cache
+*.tmp
+
+# Dependency directories
+node_modules/
