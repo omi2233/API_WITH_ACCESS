@@ -1,0 +1,14 @@
+This is a opensource api . I would like to get your contribution .  If you have made any contribution and you want me to sees it you can upload files here :https://drive.google.com/drive/folders/1rHFVXjtQq8-kYJaExtJRHXagkgd8Lb-B?usp=drive_link 
+I would extermely encourage any contribution made to this project . 
+
+To use this project install all dependencies with command : pip install -r requirements.txt
+
+Then run the api using: python -m api_main.py
+
+You can generate api keys using apikey_generator.py and update the main api file .
+
+You can also access the api via this api_access.py file .
+
+
+I would really like any contribution
+Thankyou.
